@@ -1,0 +1,11 @@
+Motor	KEYWORD1
+setVelocity	KEYWORD2
+getVelocity	KEYWORD2
+setDirection	KEYWORD2
+getDirection	KEYWORD2
+setAceleration	KEYWORD2
+getAceleration	KEYWORD2
+moveSteps	KEYWORD3
+moveContinous	KEYWORD3
+stop	KEYWORD3
+check	KEYWORD3
